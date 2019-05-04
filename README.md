@@ -13,36 +13,36 @@
 # работаем с github
 
 # software
-- work with SQL
--- [valentina-db](https://valentina-db.com/ru/get-free-valentina-studio)
--- [robomongo-](https://robomongo.org/)
--- [heidisql](https://www.heidisql.com/)
+## work with SQL
+- [valentina-db](https://valentina-db.com/ru/get-free-valentina-studio)
+- [robomongo-](https://robomongo.org/)
+- [heidisql](https://www.heidisql.com/)
 
-# work with github
--- [SourceTree Atlassian free](sourcetreeapp.com);
--- SmartGIT
--- [CyberDuck](cyberduck.io)
--- forkLift
--- binayrnights.com
+## work with github
+- [SourceTree Atlassian free](sourcetreeapp.com);
+- SmartGIT
+- [CyberDuck](cyberduck.io)
+- forkLift
+- binayrnights.com
 
-# backup
--- acronis
--- nncron
--- dropbox
--- cloud service
+## backup
+- acronis
+- nncron
+- dropbox
+- cloud service
 
-#password
+##password
 - [1Password](agilebits.com)
 - [password commander](pascom.ru)
 - [lastPass](lastpass.com)
 - [keepass.info](keepass.info)
 
 #virtual
--- vmware
--- virtualBox
--- vagrant
--- dockers
+- vmware
+- virtualBox
+- vagrant
+- dockers
 
 #feature
--- emmet.io
--- mockaroo.com - gen demo data for site
+- emmet.io
+- mockaroo.com - gen demo data for site
