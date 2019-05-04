@@ -65,4 +65,4 @@ chore — обычное обслуживание кода
 - [KANBAN](https://trello.com/)
 - [PHP_codeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 - [Перевод стандартов PSR-0, PSR-1, PSR-2, PSR-3, PSR-4](https://svyatoslav.biz/misc/psr_translation/)
-- mkdev(https://im.mkdev.me/m2515/channels/u2632)
+- [mkdev](https://im.mkdev.me/m2515/channels/u2632)
